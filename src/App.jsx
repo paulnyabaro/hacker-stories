@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div>
-      <h1>Hello world of {getTitle("React")}</h1>
+      <h1>Hello world of { getTitle("React") }</h1>
 
       <form action="">
         <label htmlFor="search"></label>
